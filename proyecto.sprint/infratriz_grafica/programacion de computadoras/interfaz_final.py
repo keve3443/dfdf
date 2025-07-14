@@ -5,8 +5,6 @@ import os
 import json
 import datetime
 from collections import defaultdict
-
-# importaciones admin
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
